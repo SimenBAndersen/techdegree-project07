@@ -12,4 +12,8 @@ block main
           strong#tweet-char.app--tweet--char 140
         .circle--fluid--cell.align-bottom
           button#userTweet.button-primary(type='submit') Tweet
-  include body.pug
+  .bounds.app--body
+    include columnHeaders.pug
+    include timeline.pug
+    include following.pug
+    include dm.pug
