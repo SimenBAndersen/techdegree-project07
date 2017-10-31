@@ -7,4 +7,4 @@ In this project:
 - Build a Twitter interface using Twitter's REST API
 
 Important:
-- You'll need a private keys and access tokens provided by Twitter to use this application. I have not provided these as they are directly connected to my Twitter account. To create your own keys/tokens: https://apps.twitter.com/
+- You'll need your own private keys and access tokens provided by Twitter to use this application. I have not provided these as they are directly connected to my Twitter account. To create your own keys/tokens: https://apps.twitter.com/
